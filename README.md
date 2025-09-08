@@ -17,7 +17,7 @@ Link: https://ideathon-challenge.netlify.app/
 - `material-ui`
 
 # Team Members 
-1. Gorle Durga Abhiram
-2. Rishita Kakarlapudi
-3. Harshita Labhala  
-4. Goutham Paila
+1. Paila Goutham
+2. Abhiram Gorle
+3. Rishita Kakarlapudi
+4. Harshita Labhala  
