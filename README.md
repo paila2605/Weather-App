@@ -1,4 +1,4 @@
-# Ideathon Challenge
+# Weather Application
 
 
 ![Application screenshot](screenshot.png)
